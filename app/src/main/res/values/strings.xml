@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OMDb Search</string>
+    <string name="results">i.g. Matrix</string>
+    <string name="search_your_favourite_movie">Search your favourite movie:</string>
+    <string name="empty_state">Whoops... We couldn\'t find any movie with this name.</string>
+    <string name="error_state">Whoops... An error has happened in the server,\ntry again later!</string>
+    <string name="year_and_runtime">%1$s, %2$s</string>
+    <string name="imdb_rating">%1$s &#9733;</string>
+    <string name="not_available">N/A</string>
+</resources>
